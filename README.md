@@ -4,6 +4,8 @@
 * postgres:14.4-alpine
 * pgadmin4
 ```
+Unzip the enterprise file then move it to /etc
+
 sudo chmod -R 777 odoo15/addons
 sudo chmod -R 777 odoo15/etc
 cd odoo15
