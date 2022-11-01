@@ -1,0 +1,2 @@
+cachetools==5.2.0
+marshmallow==3.18.0
